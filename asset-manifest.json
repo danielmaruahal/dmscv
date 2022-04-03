@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dmscv/static/css/main.792b54be.css",
+    "main.js": "/dmscv/static/js/main.ea02cbf3.js",
+    "static/js/787.6bf5e31a.chunk.js": "/dmscv/static/js/787.6bf5e31a.chunk.js",
+    "static/media/DSC03300.JPG": "/dmscv/static/media/DSC03300.d05ee18b630d1617026d.JPG",
+    "static/media/Academic Undergraduate Transcript.PDF": "/dmscv/static/media/Academic Undergraduate Transcript.3fa4807225c576680548.PDF",
+    "static/media/muctok.jpg": "/dmscv/static/media/muctok.fb0549ef472df32f99c8.jpg",
+    "static/media/CV Daniel Maruahal 2022.pdf": "/dmscv/static/media/CV Daniel Maruahal 2022.6dd684abce5197b34335.pdf",
+    "static/media/photo.jpg": "/dmscv/static/media/photo.5845268bcf98d140340a.jpg",
+    "static/media/TUM Current Grade Report.pdf": "/dmscv/static/media/TUM Current Grade Report.aaa28f04a1c523e26387.pdf",
+    "static/media/keihinlogo.png": "/dmscv/static/media/keihinlogo.b0c96ca4a07948cd5630.png",
+    "static/media/itblogo.png": "/dmscv/static/media/itblogo.4f68c2476e26a8b4a030.png",
+    "static/media/ifxlogo.png": "/dmscv/static/media/ifxlogo.eed8c593350723e09d54.png",
+    "static/media/bdb.jpg": "/dmscv/static/media/bdb.6797bdb1350bdf5cbc21.jpg",
+    "static/media/tableau.jpg": "/dmscv/static/media/tableau.8d440ae15bc5dbe42b84.jpg",
+    "index.html": "/dmscv/index.html",
+    "main.792b54be.css.map": "/dmscv/static/css/main.792b54be.css.map",
+    "main.ea02cbf3.js.map": "/dmscv/static/js/main.ea02cbf3.js.map",
+    "787.6bf5e31a.chunk.js.map": "/dmscv/static/js/787.6bf5e31a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.792b54be.css",
+    "static/js/main.ea02cbf3.js"
+  ]
+}
