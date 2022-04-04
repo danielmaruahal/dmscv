@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dmscv/static/css/main.8efe905d.css",
-    "main.js": "/dmscv/static/js/main.49fcb4a9.js",
+    "main.css": "/dmscv/static/css/main.207b56ce.css",
+    "main.js": "/dmscv/static/js/main.55bd6d20.js",
     "static/js/787.6bf5e31a.chunk.js": "/dmscv/static/js/787.6bf5e31a.chunk.js",
     "static/media/DSC03300.JPG": "/dmscv/static/media/DSC03300.d05ee18b630d1617026d.JPG",
     "static/media/Academic Undergraduate Transcript.PDF": "/dmscv/static/media/Academic Undergraduate Transcript.3fa4807225c576680548.PDF",
@@ -9,18 +9,18 @@
     "static/media/CV Daniel Maruahal 2022.pdf": "/dmscv/static/media/CV Daniel Maruahal 2022.6dd684abce5197b34335.pdf",
     "static/media/photo.jpg": "/dmscv/static/media/photo.5845268bcf98d140340a.jpg",
     "static/media/TUM Current Grade Report.pdf": "/dmscv/static/media/TUM Current Grade Report.aaa28f04a1c523e26387.pdf",
+    "static/media/bdb.jpg": "/dmscv/static/media/bdb.19221d2b316b7c738541.jpg",
     "static/media/keihinlogo.png": "/dmscv/static/media/keihinlogo.b0c96ca4a07948cd5630.png",
+    "static/media/tableau.jpg": "/dmscv/static/media/tableau.52cd4923c1dac189ae20.jpg",
     "static/media/itblogo.png": "/dmscv/static/media/itblogo.4f68c2476e26a8b4a030.png",
     "static/media/ifxlogo.png": "/dmscv/static/media/ifxlogo.eed8c593350723e09d54.png",
-    "static/media/bdb.jpg": "/dmscv/static/media/bdb.6797bdb1350bdf5cbc21.jpg",
-    "static/media/tableau.jpg": "/dmscv/static/media/tableau.8d440ae15bc5dbe42b84.jpg",
     "index.html": "/dmscv/index.html",
-    "main.8efe905d.css.map": "/dmscv/static/css/main.8efe905d.css.map",
-    "main.49fcb4a9.js.map": "/dmscv/static/js/main.49fcb4a9.js.map",
+    "main.207b56ce.css.map": "/dmscv/static/css/main.207b56ce.css.map",
+    "main.55bd6d20.js.map": "/dmscv/static/js/main.55bd6d20.js.map",
     "787.6bf5e31a.chunk.js.map": "/dmscv/static/js/787.6bf5e31a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8efe905d.css",
-    "static/js/main.49fcb4a9.js"
+    "static/css/main.207b56ce.css",
+    "static/js/main.55bd6d20.js"
   ]
 }
